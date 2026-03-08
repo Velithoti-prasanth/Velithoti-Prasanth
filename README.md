@@ -24,11 +24,11 @@ Passionate about building scalable backend systems and learning modern web techn
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeviPrasadKL&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Velithoti-prasanth&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Velithoti-Prasanth&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Velithoti-prasanth&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=DeviPrasadKL&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Velithoti-prasanth&theme=tokyonight)
 
 ---
 
