@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Prasanth&fontSize=40&fontColor=ffffff"/>
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
+<img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,git,github,vscode" />
 </p>
 
 # Hi 👋 I'm Prasanth
@@ -24,9 +24,9 @@ Passionate about building scalable backend systems and learning modern web techn
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Velithoti-prasanth&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Velithoti-prasanth&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Velithoti-prasanth&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Velithoti-prasanth&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Velithoti-prasanth&theme=tokyonight)
 
