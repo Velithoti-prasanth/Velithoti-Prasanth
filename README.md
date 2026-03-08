@@ -17,12 +17,10 @@ Passionate about building scalable backend systems and learning modern web techn
 ## 🛠 Languages and Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,php,mysql,html,css,js,git,github,vscode,eclipse,docker" />
 </p>
 
 ---
-
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
@@ -40,11 +38,12 @@ Passionate about building scalable backend systems and learning modern web techn
 
 ## 🚀 Projects
 
-🔹 **FreshSave** – Inventory & Waste Tracking System  
-(Java, Servlets, MySQL, HTML, CSS, JavaScript)
+🔹 **HyperloopX** – Containerized Web Application  
+(PHP, Docker, MySQL, HTML, CSS, JavaScript)
 
 🔹 **Seamless Ordering & Dining Reservation System**  
-(Java, JDBC, MySQL)
+(Java, JDBC, MySQL, HTML, CSS, JavaScript, Servlets, Tomcat)
+Repository: https://velithoti-prasanth.github.io/Seamless-Ordering-and-Dining-Reservation/
 
 ---
 
